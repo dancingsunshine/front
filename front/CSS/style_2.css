@@ -1,0 +1,43 @@
+
+*{
+	font-size: 21px;
+}
+body{
+
+	overflow: hidden;
+}
+
+#name{
+	font-size: 40px;
+	color: #f4f8fe;
+
+}
+
+.subtitle{
+	font-weight: bold;
+	font-size: 28px;
+	padding: 20px 0;
+}
+
+#left{
+	width: 200px;
+	background:#65a4fa;
+	float: left;
+	margin-bottom:-9999px;
+	margin-right: 20px;
+	padding-bottom:9999px;
+	padding-left: 60px;
+	padding-top: 30px;
+	box-sizing: border-box;
+}
+
+#right{
+	width: 800px;
+	background-color: none;
+	float: left;
+}
+
+
+.summery{
+	font-weight: bold;
+}

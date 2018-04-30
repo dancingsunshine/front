@@ -1,0 +1,37 @@
+#sum{
+	width: 200px;
+	height: 200px;
+	background: green;
+}
+
+#leftup{
+	width: 100px;
+	height: 100px;
+	background: red;
+	float: left;
+	display: inline-block;
+}
+
+#leftdown{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	display: inline-block;
+	float: left;
+}
+
+#rightup{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	float: left;
+	display: inline-block;
+}
+
+#rightdown{
+	width: 100px;
+	height: 100px;
+	background: grey;
+	display: inline-block;
+	float: left;
+}
